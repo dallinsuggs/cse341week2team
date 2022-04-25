@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for week 2 team assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willhawkes/cse341week2team.git"
+  },
+  "author": "Dallin Suggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willhawkes/cse341week2team/issues"
+  },
+  "homepage": "https://github.com/willhawkes/cse341week2team#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.0"
+  }
+}
